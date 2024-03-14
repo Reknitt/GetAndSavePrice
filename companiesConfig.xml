@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+	<CompanyConfig>
+		<CompanyName>ООО "Доставим в срок"</CompanyName>
+		<CompanyEmail>dostavim@mail.ru</CompanyEmail>
+		<IndexVendor>1</IndexVendor>
+		<IndexNumber>10</IndexNumber>
+		<IndexDescription>3</IndexDescription>
+		<IndexPrice>6</IndexPrice>
+		<IndexCount>8</IndexCount>
+	</CompanyConfig>
+	
+	<CompanyConfig>
+		<CompanyName>ООО "Запчасти даром"</CompanyName>
+		<CompanyEmail>darom@mail.ru</CompanyEmail>
+		<IndexVendor>1</IndexVendor>
+		<IndexNumber>10</IndexNumber>
+		<IndexDescription>3</IndexDescription>
+		<IndexPrice>6</IndexPrice>
+		<IndexCount>8</IndexCount>
+	</CompanyConfig>
+
+	<CompanyConfig>
+		<CompanyName>Example</CompanyName>
+		<CompanyEmail>exampleEmail</CompanyEmail>
+		<IndexVendor>1</IndexVendor>
+		<IndexNumber>10</IndexNumber>
+		<IndexDescription>3</IndexDescription>
+		<IndexPrice>6</IndexPrice>
+		<IndexCount>8</IndexCount>
+	</CompanyConfig>
+</Companies>
